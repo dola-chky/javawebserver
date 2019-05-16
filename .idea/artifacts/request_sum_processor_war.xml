@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="request_sum_processor:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="request_sum_processor-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="request_sum_processor:war exploded" />
+    </root>
+  </artifact>
+</component>
